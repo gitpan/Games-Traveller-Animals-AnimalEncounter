@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Games-Traveller-Animals-AnimalEncounter.t
+lib/Games/Traveller/Animals/AnimalEncounter.pm
+META.yml                                 Module meta-data (added by MakeMaker)
